@@ -1,0 +1,6 @@
+kubectl apply -f [name].yaml
+https://www.airplane.dev/blog/kubectl-scale
+
+kubectl get pods
+kubectl get deployments
+kubectl get services
