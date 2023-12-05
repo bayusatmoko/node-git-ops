@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: 506952574321.dkr.ecr.ap-southeast-1.amazonaws.com/dangdutan:1f75550d3a85ce56d4f629b7ba2be120c75f12f0
+          image: 506952574321.dkr.ecr.ap-southeast-1.amazonaws.com/dangdutan:ebd40b642063893b259e9b0cacb86bc3045f11ec
           ports:
             - containerPort: 3000
           imagePullPolicy: Always
